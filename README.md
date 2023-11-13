@@ -10,12 +10,12 @@ This was a challege provided by a recruiter.
 ```js
 git clone https://github.com/AndresAltv/Dots-challenge.git
 ```
-<br><br>
+
 2. Install dependencies<br>
 ```js
 npm install
 ```
-<br><br>
+
 
 3. Start server<br>
 ```js
